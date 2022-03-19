@@ -1,10 +1,10 @@
-# Getting Started with Create React App
+# Notes APP
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Notes APP made in React. The app allows you to save notes on your local storage.
 
-## Available Scripts
+## Demo
 
-In the project directory, you can run:
+You can see the demo [here](https://omarbarbosa06.github.io/notesApp/).
 
 ### `npm start`
 
